@@ -1,0 +1,20 @@
+---
+title: "Wrack_degradation_code"
+author: "Ric DeSantiago"
+date: "2023-04-26"
+output: html_document
+---
+
+```{r}
+hello
+```
+
+
+```{r}
+summary(cars)
+```
+
+```{r}
+plot(pressure)
+```
+
