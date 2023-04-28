@@ -1,0 +1,151 @@
+﻿date,trt,rep_no.,grazer_spp.,algae_spp.,trial_1_wi,trial_1_wf,trial_1_Cf/Ci,trial_1_correction_factor,trial_1_Wd,trial_2_wi,trial_2_wf,trial_2_Cf/Ci,trial_2_correction_factor,trial_2_Wd
+5/10/21,Experimental,STE1,Tegula,Sargassum,15.489,16.121,NA,0.998,-0.657,8.702,1.908,NA,1.182,8.377
+5/10/21,Experimental,STE2,Tegula,Sargassum,14.528,16.389,NA,0.796,-4.822,11.235,9.644,NA,0.727,-1.481
+5/10/21,Experimental,STE3,Tegula,Sargassum,14.14,11.28,NA,0.853,0.780,7.197,5.439,NA,0.645,-0.800
+5/10/21,Experimental,STE4,Tegula,Sargassum,15.9,13.491,NA,0.923,1.182,5.919,3.088,NA,0.772,1.482
+5/10/21,Experimental,STE5,Tegula,Sargassum,11.906,8.585,NA,1.219,5.930,5.168,2.91,NA,0.834,1.400
+5/10/21,Experimental,STE6,Tegula,Sargassum,12.99,11.6,NA,1.280,5.030,16.511,9.111,NA,0.455,-1.593
+5/10/21,Experimental,STE7,Tegula,Sargassum,11.696,9.722,NA,1.033,2.361,7.261,5.185,NA,0.725,0.081
+5/10/21,Experimental,STE8,Tegula,Sargassum,13.367,12.816,NA,0.845,-1.517,9.312,5.641,NA,0.810,1.902
+5/10/21,Experimental,STE9,Tegula,Sargassum,12.589,13.5,NA,1.032,-0.505,7.446,5.184,NA,0.588,-0.805
+5/10/21,Experimental,STE10,Tegula,Sargassum,13.922,9.896,NA,0.890,2.489,10.452,8.416,NA,0.853,0.502
+5/10/21,Experimental,STE11,Tegula,Sargassum,13.009,9.122,NA,1.154,5.885,11.29,7.79,NA,0.754,0.718
+5/10/21,Experimental,STE12,Tegula,Sargassum,13.234,9.271,NA,0.965,3.498,5.812,3.335,NA,0.832,1.502
+5/10/21,Experimental,STE13,Tegula,Sargassum,15.21,13.701,NA,0.998,1.477,10.619,7.088,NA,0.801,1.421
+5/10/21,Experimental,STE14,Tegula,Sargassum,15.821,12.128,NA,1.062,4.668,7.318,5.599,NA,1.025,1.900
+5/10/21,Experimental,STE15,Tegula,Sargassum,14.516,9.608,NA,1.056,5.721,10.768,8.939,NA,0.880,0.536
+5/10/21,Experimental,SPE1,Pagurus,Sargassum,10.882,3.222,NA,0.998,7.643,9.89,6.348,NA,1.182,5.341
+5/10/21,Experimental,SPE2,Pagurus,Sargassum,13.246,11.186,NA,0.796,-0.640,5.794,2.119,NA,0.727,2.091
+5/10/21,Experimental,SPE3,Pagurus,Sargassum,12.324,8.576,NA,0.853,1.935,8.217,0.588,NA,0.645,4.708
+5/10/21,Experimental,SPE4,Pagurus,Sargassum,14.618,9.341,NA,0.923,4.149,6.166,1.348,NA,0.772,3.413
+5/10/21,Experimental,SPE5,Pagurus,Sargassum,9.68,5.4113,NA,1.219,6.390,4.44,1.109,NA,0.834,2.594
+5/10/21,Experimental,SPE6,Pagurus,Sargassum,11.906,11.053,NA,1.280,4.189,13.321,2.821,NA,0.455,3.245
+5/10/21,Experimental,SPE7,Pagurus,Sargassum,16.937,9.417,NA,1.033,8.081,3.971,1.966,NA,0.725,0.914
+5/10/21,Experimental,SPE8,Pagurus,Sargassum,15.069,11.987,NA,0.845,0.751,8.337,1.799,NA,0.810,4.954
+5/10/21,Experimental,SPE9,Pagurus,Sargassum,16.326,12.934,NA,1.032,3.919,6.993,1.122,NA,0.588,2.991
+5/10/21,Experimental,SPE10,Pagurus,Sargassum,12.609,12.797,NA,0.890,-1.580,8.338,3.48,NA,0.853,3.634
+5/10/21,Experimental,SPE11,Pagurus,Sargassum,11.339,2.841,NA,1.154,10.239,6.55,2.742,NA,0.754,2.194
+5/10/21,Experimental,SPE12,Pagurus,Sargassum,15.339,9.221,NA,0.965,5.580,7.028,3.486,NA,0.832,2.363
+5/10/21,Experimental,SPE13,Pagurus,Sargassum,12.737,8.227,NA,0.998,4.483,9.145,3.563,NA,0.801,3.765
+5/10/21,Experimental,SPE14,Pagurus,Sargassum,15.649,12.487,NA,1.062,4.127,7.397,2.8,NA,1.025,4.780
+5/10/21,Experimental,SPE15,Pagurus,Sargassum,14.784,11.112,NA,1.056,4.500,10.95,6.696,NA,0.880,2.939
+5/10/21,Control,SC1,Control,Sargassum,16.323,16.297,0.998,NA,NA,5.251,6.206,1.182,NA,NA
+5/10/21,Control,SC2,Control,Sargassum,9.184,7.312,0.796,NA,NA,11.822,8.59,0.727,NA,NA
+5/10/21,Control,SC3,Control,Sargassum,10.925,9.318,0.853,NA,NA,6.454,4.16,0.645,NA,NA
+5/10/21,Control,SC4,Control,Sargassum,10.546,9.732,0.923,NA,NA,9.081,7.012,0.772,NA,NA
+5/10/21,Control,SC5,Control,Sargassum,7.654,9.331,1.219,NA,NA,5.074,4.232,0.834,NA,NA
+5/10/21,Control,SC6,Control,Sargassum,7.109,9.101,1.280,NA,NA,9.72,4.426,0.455,NA,NA
+5/10/21,Control,SC7,Control,Sargassum,9.3,9.608,1.033,NA,NA,6.22,4.511,0.725,NA,NA
+5/10/21,Control,SC8,Control,Sargassum,11.815,9.987,0.845,NA,NA,7.311,5.922,0.810,NA,NA
+5/10/21,Control,SC9,Control,Sargassum,12.589,12.995,1.032,NA,NA,4.358,2.563,0.588,NA,NA
+5/10/21,Control,SC10,Control,Sargassum,14.078,12.524,0.890,NA,NA,7.98,6.809,0.853,NA,NA
+5/10/21,Control,SC11,Control,Sargassum,7.924,9.141,1.154,NA,NA,5.843,4.403,0.754,NA,NA
+5/10/21,Control,SC12,Control,Sargassum,10.398,10.033,0.965,NA,NA,8.127,6.764,0.832,NA,NA
+5/10/21,Control,SC13,Control,Sargassum,15.68,15.647,0.998,NA,NA,8.29,6.643,0.801,NA,NA
+5/10/21,Control,SC14,Control,Sargassum,9.895,10.505,1.062,NA,NA,8.328,8.534,1.025,NA,NA
+5/10/21,Control,SC15,Control,Sargassum,10.055,10.618,1.056,NA,NA,12.621,11.105,0.880,NA,NA
+5/11/21,Experimental,SHE1,Haliotis,Sargassum,13.58,4.507,NA,1.207,11.882,8.23,0.818,NA,0.999,7.403
+5/11/21,Experimental,SHE2,Haliotis,Sargassum,12.383,12.44,NA,1.170,2.047,5.25,1.68,NA,0.000,-1.680
+5/11/21,Experimental,SHE3,Haliotis,Sargassum,9,4.645,NA,1.062,4.913,6.89,6.433,NA,0.953,0.130
+5/11/21,Experimental,SHE4,Haliotis,Sargassum,10.124,2.392,NA,1.072,8.463,6.85,1.556,NA,0.952,4.968
+5/11/21,Experimental,SHE5,Haliotis,Sargassum,14.75,6.788,NA,0.899,6.479,11.107,4.088,NA,0.866,5.533
+5/11/21,Experimental,SHE6,Haliotis,Sargassum,13.747,10.507,NA,1.092,4.510,7.56,5.116,NA,0.955,2.106
+5/11/21,Experimental,SHE7,Haliotis,Sargassum,10.977,5.203,NA,0.954,5.274,10.515,6.333,NA,0.853,2.632
+5/11/21,Experimental,SHE8,Haliotis,Sargassum,16.225,9.526,NA,1.031,7.203,9.712,3.959,NA,0.808,3.886
+5/11/21,Experimental,SHE9,Haliotis,Sargassum,9.52,6.455,NA,0.872,1.845,7.611,2.567,NA,0.965,4.775
+5/11/21,Experimental,SHE10,Haliotis,Sargassum,10.401,7.193,NA,1.014,3.359,8.87,4.373,NA,0.508,0.131
+5/11/21,Experimental,SHE11,Haliotis,Sargassum,15.188,5.57,NA,0.958,8.984,8.57,3.94,NA,0.919,3.932
+5/11/21,Experimental,SHE12,Haliotis,Sargassum,8.881,3.955,NA,1.056,5.421,11.531,7.626,NA,0.820,1.827
+5/11/21,Experimental,SHE13,Haliotis,Sargassum,13.58,6.921,NA,0.904,5.354,13.198,3.715,NA,0.732,5.949
+5/11/21,Experimental,SHE14,Haliotis,Sargassum,11.66,7.738,NA,0.687,0.278,6.3,2.853,NA,0.829,2.370
+5/11/21,Experimental,SHE15,Haliotis,Sargassum,10.371,6.31,NA,1.028,4.349,8.28,2.283,NA,0.907,5.231
+5/11/21,Control,SHC1,Control H,Sargassum,10.204,12.315,1.207,NA,NA,8.91,8.9,0.999,NA,NA
+5/11/21,Control,SHC2,Control H,Sargassum,9.034,10.569,1.170,NA,NA,7.77,,0.000,NA,NA
+5/11/21,Control,SHC3,Control H,Sargassum,6.934,7.364,1.062,NA,NA,6.59,6.277,0.953,NA,NA
+5/11/21,Control,SHC4,Control H,Sargassum,10.035,10.76,1.072,NA,NA,8.64,8.229,0.952,NA,NA
+5/11/21,Control,SHC5,Control H,Sargassum,12.302,11.065,0.899,NA,NA,9.381,8.126,0.866,NA,NA
+5/11/21,Control,SHC6,Control H,Sargassum,10.458,11.424,1.092,NA,NA,10.7,10.222,0.955,NA,NA
+5/11/21,Control,SHC7,Control H,Sargassum,9.47,9.039,0.954,NA,NA,9.351,7.973,0.853,NA,NA
+5/11/21,Control,SHC8,Control H,Sargassum,10.582,10.911,1.031,NA,NA,15.651,12.643,0.808,NA,NA
+5/11/21,Control,SHC9,Control H,Sargassum,11.666,10.171,0.872,NA,NA,7.23,6.974,0.965,NA,NA
+5/11/21,Control,SHC10,Control H,Sargassum,13.047,13.236,1.014,NA,NA,6.7,3.402,0.508,NA,NA
+5/11/21,Control,SHC11,Control H,Sargassum,11.259,10.789,0.958,NA,NA,8.78,8.065,0.919,NA,NA
+5/11/21,Control,SHC12,Control H,Sargassum,7.488,7.905,1.056,NA,NA,4.877,3.998,0.820,NA,NA
+5/11/21,Control,SHC13,Control H,Sargassum,11.536,10.427,0.904,NA,NA,7.417,5.431,0.732,NA,NA
+5/11/21,Control,SHC14,Control H,Sargassum,7.206,4.954,0.687,NA,NA,10.3,8.539,0.829,NA,NA
+5/11/21,Control,SHC15,Control H,Sargassum,13.062,13.425,1.028,NA,NA,8.14,7.387,0.907,NA,NA
+5/10/21,Experimental,MTE1,Tegula,Macrocystis,16.001,15.518,NA,0.969,-0.007,9.385,12.562,NA,0.863,-4.464
+5/10/21,Experimental,MTE2,Tegula,Macrocystis,12.6,12.295,NA,0.841,-1.702,7.851,7.143,NA,1.392,3.786
+5/10/21,Experimental,MTE3,Tegula,Macrocystis,14.592,15.346,NA,1.095,0.636,5.481,4.002,NA,1.097,2.009
+5/10/21,Experimental,MTE4,Tegula,Macrocystis,13.858,15.14,NA,1.253,2.219,6.925,6.232,NA,0.987,0.601
+5/10/21,Experimental,MTE5,Tegula,Macrocystis,11.251,9.63,NA,1.126,3.041,4.976,2.372,NA,1.022,2.713
+5/10/21,Experimental,MTE6,Tegula,Macrocystis,11.101,8.217,NA,0.969,2.536,15.532,10.728,NA,0.559,-2.050
+5/10/21,Experimental,MTE7,Tegula,Macrocystis,12.159,10.426,NA,0.654,-2.469,6.531,5.96,NA,1.003,0.593
+5/10/21,Experimental,MTE8,Tegula,Macrocystis,11.599,9.58,NA,1.034,2.415,6.544,5.409,NA,0.952,0.822
+5/10/21,Experimental,MTE9,Tegula,Macrocystis,13.624,10.501,NA,1.057,3.903,5.41,2.906,NA,0.770,1.258
+5/10/21,Experimental,MTE10,Tegula,Macrocystis,13.337,11.966,NA,0.870,-0.367,9.409,8.011,NA,1.102,2.357
+5/10/21,Experimental,MTE11,Tegula,Macrocystis,12.777,10.8,NA,1.093,3.162,5.945,5.567,NA,1.044,0.642
+5/10/21,Experimental,MTE12,Tegula,Macrocystis,13.636,14.661,NA,0.911,-2.239,7.54,7.388,NA,0.704,-2.082
+5/10/21,Experimental,MTE13,Tegula,Macrocystis,13.28,10.089,NA,1.106,4.599,5.811,5.108,NA,0.900,0.123
+5/10/21,Experimental,MTE14,Tegula,Macrocystis,16.443,16.292,NA,1.088,1.596,8.321,5.133,NA,1.278,5.504
+5/10/21,Experimental,MTE15,Tegula,Macrocystis,13.133,12.914,NA,0.920,-0.827,7.545,7.333,NA,0.989,0.129
+5/10/21,Experimental,MPE1,Pagurus,Macrocystis,9.307,11.116,NA,0.969,-2.094,13.703,8.92,NA,0.863,2.904
+5/10/21,Experimental,MPE2,Pagurus,Macrocystis,10.032,7.81,NA,0.841,0.624,5.404,5.794,NA,1.392,1.729
+5/10/21,Experimental,MPE3,Pagurus,Macrocystis,13.664,13.724,NA,1.095,1.241,6.728,11.759,NA,1.097,-4.380
+5/10/21,Experimental,MPE4,Pagurus,Macrocystis,12.792,11.27,NA,1.253,4.753,8.405,7.587,NA,0.987,0.706
+5/10/21,Experimental,MPE5,Pagurus,Macrocystis,12.135,9.963,NA,1.126,3.703,7.809,5.741,NA,1.022,2.239
+5/10/21,Experimental,MPE6,Pagurus,Macrocystis,11.014,11.797,NA,0.969,-1.128,13.131,8.003,NA,0.559,-0.667
+5/10/21,Experimental,MPE7,Pagurus,Macrocystis,16.37,14.445,NA,0.654,-3.732,5.45,4.469,NA,1.003,1.000
+5/10/21,Experimental,MPE8,Pagurus,Macrocystis,17.969,17.745,NA,1.034,0.838,6.239,6.255,NA,0.952,-0.314
+5/10/21,Experimental,MPE9,Pagurus,Macrocystis,16.808,16.068,NA,1.057,1.702,4.368,2.103,NA,0.770,1.259
+5/10/21,Experimental,MPE10,Pagurus,Macrocystis,10.056,10.504,NA,0.870,-1.759,10.971,11.518,NA,1.102,0.571
+5/10/21,Experimental,MPE11,Pagurus,Macrocystis,1.195,9.523,NA,1.093,-8.217,6.739,3.927,NA,1.044,3.111
+5/10/21,Experimental,MPE12,Pagurus,Macrocystis,12.953,13.754,NA,0.911,-1.954,8.343,7.843,NA,0.704,-1.972
+5/10/21,Experimental,MPE13,Pagurus,Macrocystis,13.181,10.3,NA,1.106,4.279,6.723,6.499,NA,0.900,-0.447
+5/10/21,Experimental,MPE14,Pagurus,Macrocystis,16.24,13.006,NA,1.088,4.662,7.198,3.702,NA,1.278,5.500
+5/10/21,Experimental,MPE15,Pagurus,Macrocystis,12.105,13.917,NA,0.920,-2.776,9.002,5.555,NA,0.989,3.348
+5/10/21,Control,MC1,Control,Macrocystis,13.507,13.093,0.969,NA,NA,7.913,6.828,0.863,NA,NA
+5/10/21,Control,MC2,Control,Macrocystis,8.326,7,0.841,NA,NA,8.394,11.685,1.392,NA,NA
+5/10/21,Control,MC3,Control,Macrocystis,11.404,12.49,1.095,NA,NA,5.647,6.193,1.097,NA,NA
+5/10/21,Control,MC4,Control,Macrocystis,9.125,11.43,1.253,NA,NA,11.891,11.733,0.987,NA,NA
+5/10/21,Control,MC5,Control,Macrocystis,8.48,9.55,1.126,NA,NA,4.196,4.288,1.022,NA,NA
+5/10/21,Control,MC6,Control,Macrocystis,10.723,10.387,0.969,NA,NA,10.27,5.738,0.559,NA,NA
+5/10/21,Control,MC7,Control,Macrocystis,11.812,7.73,0.654,NA,NA,4.65,4.666,1.003,NA,NA
+5/10/21,Control,MC8,Control,Macrocystis,9.281,9.598,1.034,NA,NA,4.959,4.722,0.952,NA,NA
+5/10/21,Control,MC9,Control,Macrocystis,11.965,12.65,1.057,NA,NA,3.1,2.386,0.770,NA,NA
+5/10/21,Control,MC10,Control,Macrocystis,13.083,11.378,0.870,NA,NA,6.625,7.3,1.102,NA,NA
+5/10/21,Control,MC11,Control,Macrocystis,9.513,10.395,1.093,NA,NA,7.783,8.128,1.044,NA,NA
+5/10/21,Control,MC12,Control,Macrocystis,11.544,10.516,0.911,NA,NA,7.33,5.158,0.704,NA,NA
+5/10/21,Control,MC13,Control,Macrocystis,13.468,14.896,1.106,NA,NA,4.8,4.321,0.900,NA,NA
+5/10/21,Control,MC14,Control,Macrocystis,11,11.967,1.088,NA,NA,7.389,9.446,1.278,NA,NA
+5/10/21,Control,MC15,Control,Macrocystis,11.511,10.594,0.920,NA,NA,9.71,9.603,0.989,NA,NA
+5/11/21,Experimental,MHE1,Haliotis,Macrocystis,12.155,1.78,NA,1.095,11.536,11.3,0.921,NA,1.174,12.346
+5/11/21,Experimental,MHE2,Haliotis,Macrocystis,13.312,6.617,NA,0.980,6.423,9.99,,NA,1.097,10.963
+5/11/21,Experimental,MHE3,Haliotis,Macrocystis,9.535,2.779,NA,0.992,6.684,9.07,4.186,NA,0.795,3.023
+5/11/21,Experimental,MHE4,Haliotis,Macrocystis,11.848,2.306,NA,0.842,7.670,7.75,0.886,NA,0.810,5.394
+5/11/21,Experimental,MHE5,Haliotis,Macrocystis,12.883,5.935,NA,1.078,7.956,9.921,4.713,NA,0.994,5.150
+5/11/21,Experimental,MHE6,Haliotis,Macrocystis,12.249,3.908,NA,1.227,11.117,8.86,0.463,NA,1.424,12.153
+5/11/21,Experimental,MHE7,Haliotis,Macrocystis,13.178,8.995,NA,1.301,8.149,11.45,1.089,NA,1.002,10.382
+5/11/21,Experimental,MHE8,Haliotis,Macrocystis,16.687,2.646,NA,1.010,14.215,12.624,0.0358,NA,0.941,11.846
+5/11/21,Experimental,MHE9,Haliotis,Macrocystis,10.864,2.662,NA,1.042,8.658,8.831,0.33,NA,1.024,8.709
+5/11/21,Experimental,MHE10,Haliotis,Macrocystis,10.341,5.571,NA,1.277,7.633,4.37,1.713,NA,1.460,4.666
+5/11/21,Experimental,MHE11,Haliotis,Macrocystis,17.663,15.749,NA,1.193,5.321,6.62,6.334,NA,1.175,1.446
+5/11/21,Experimental,MHE12,Haliotis,Macrocystis,9.443,4.475,NA,1.285,7.656,9.72,0.223,NA,1.059,10.074
+5/11/21,Experimental,MHE13,Haliotis,Macrocystis,11.803,3.636,NA,1.096,9.300,12.111,1.847,NA,1.046,10.818
+5/11/21,Experimental,MHE14,Haliotis,Macrocystis,10.249,5.139,NA,1.067,5.801,9.39,1.301,NA,0.841,6.591
+5/11/21,Experimental,MHE15,Haliotis,Macrocystis,9.313,2.717,NA,0.757,4.331,8.66,2.006,NA,1.041,7.011
+5/11/21,Control,MHC1,Control H,Macrocystis,9.844,10.784,1.095,NA,NA,7.91,9.287,1.174,NA,NA
+5/11/21,Control,MHC2,Control H,Macrocystis,9.341,9.15,0.980,NA,NA,9.47,10.392,1.097,NA,NA
+5/11/21,Control,MHC3,Control H,Macrocystis,8.322,8.259,0.992,NA,NA,9.56,7.598,0.795,NA,NA
+5/11/21,Control,MHC4,Control H,Macrocystis,11.52,9.7,0.842,NA,NA,7.62,6.175,0.810,NA,NA
+5/11/21,Control,MHC5,Control H,Macrocystis,9.947,10.725,1.078,NA,NA,8.578,8.528,0.994,NA,NA
+5/11/21,Control,MHC6,Control H,Macrocystis,7.083,8.688,1.227,NA,NA,7.69,10.95,1.424,NA,NA
+5/11/21,Control,MHC7,Control H,Macrocystis,7.173,9.332,1.301,NA,NA,9.737,9.755,1.002,NA,NA
+5/11/21,Control,MHC8,Control H,Macrocystis,13.56,13.701,1.010,NA,NA,7.333,6.902,0.941,NA,NA
+5/11/21,Control,MHC9,Control H,Macrocystis,10.477,10.917,1.042,NA,NA,7.4,7.574,1.024,NA,NA
+5/11/21,Control,MHC10,Control H,Macrocystis,11.053,14.113,1.277,NA,NA,4.49,6.554,1.460,NA,NA
+5/11/21,Control,MHC11,Control H,Macrocystis,9.186,10.958,1.193,NA,NA,10.1,11.87,1.175,NA,NA
+5/11/21,Control,MHC12,Control H,Macrocystis,5.824,7.482,1.285,NA,NA,8.227,8.715,1.059,NA,NA
+5/11/21,Control,MHC13,Control H,Macrocystis,8.064,8.838,1.096,NA,NA,8.322,8.703,1.046,NA,NA
+5/11/21,Control,MHC14,Control H,Macrocystis,9.526,10.168,1.067,NA,NA,11.5,9.666,0.841,NA,NA
+5/11/21,Control,MHC15,Control H,Macrocystis,12.247,9.269,0.757,NA,NA,13,13.536,1.041,NA,NA
