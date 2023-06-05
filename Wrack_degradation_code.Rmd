@@ -5,8 +5,102 @@ date: "2023-04-26"
 output: html_document
 ---
 
+
+#libraries
 ```{r}
-hello
+library(knitr)
+library(tidyverse)
+library(tidyr)
+library(ggplot2)
+library(ggfortify)
+library(lme4)
+library(car)
+library(nlme)
+library(ggpubr)
+library(multcompView)
+library(boot)
+library(Hotelling)
+library(mvnTest)
+library(vegan)
+library(factoextra)
+library(FactoMineR)
+library(agricolae)
+library(glmm)
+library(HH)
+library(ggpubr)
+library(rstatix)
+```
+
+
+
+#degradation experiment 
+```{r}
+#load data
+degradation<-read.csv("DegradationExperimenttrials2021.csv", header=TRUE)
+view(degradation)
+na.omit(degradation)
+
+degradation<-subset(degradation, !trt == "Control")
+degradation$trial_no.<-as.factor(degradation$trial_no.)
+
+fig<- ggplot(degradation, aes(x=grazer_spp., y= Wd, fill= algae_spp.)) + 
+  geom_boxplot() + theme_bw() +  facet_grid(trial_no. ~ ., scales = "free_y", labeller = as_labeller(c("1" = "One Week", "2" = "Two Weeks")))
+fig
+ 
+#stuff to make the graph pretty
+
+xlab("Diet") + 
+  ylab("Dry Tissue Mass (g)") + 
+  ggtitle("") + 
+  theme(axis.text=element_text(size=12),
+        axis.title=element_text(size=12), plot.title =element_text(hjust = 0.5)) +
+  +  theme(strip.text = element_text()) +
+  
+  scale_x_discrete(limits = c("starved", "macro", "mixed", "sargassum"), labels=c("starved" = "Starved", "macro" = "Kelp",
+                              "mixed" = "Mixed","sargassum" = "Devilweed")) +
+   geom_vline(xintercept=c(1.5),linetype="dotted") +
+   theme(axis.text.x = element_text( 
+                           size=10)) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ontogeny<-read.csv("JuvenileVSAdultSargassumAssay.csv", header=TRUE)
+na.omit(ontogeny)
+view(ontogeny)
+ontogeny<-subset(ontogeny, !trt == "control")
+
+ontogenyfig<- ggplot(ontogeny, aes(x=grazer_spp., y= algae_Wd, fill= algae_spp.)) + 
+  geom_boxplot() + theme_bw()  
+ontogenyfig
+
+
+
+
+
+
+
+
+rvf<-read.csv("AgarVSwholeTissueAssasy.csv", header=TRUE)
+na.omit(rvf)
+view(rvf)
+rvf<-subset(rvf, !Treatment == "control")
+
+rvffig<- ggplot(rvf, aes(x=Grazer_Spp., y= Algae_Wd, fill= Algae)) + 
+  geom_boxplot() + theme_bw()  
+rvffig
+
+
+
 ```
 
 
