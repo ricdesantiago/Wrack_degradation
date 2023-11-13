@@ -46,28 +46,6 @@ degradation$trial_no.<-as.factor(degradation$trial_no.)
 fig<- ggplot(degradation, aes(x=grazer_spp., y= Wd, fill= algae_spp.)) + 
   geom_boxplot() + theme_bw() +  facet_grid(trial_no. ~ ., scales = "free_y", labeller = as_labeller(c("1" = "One Week", "2" = "Two Weeks")))
 fig
- 
-#stuff to make the graph pretty
-
-xlab("Diet") + 
-  ylab("Dry Tissue Mass (g)") + 
-  ggtitle("") + 
-  theme(axis.text=element_text(size=12),
-        axis.title=element_text(size=12), plot.title =element_text(hjust = 0.5)) +
-  +  theme(strip.text = element_text()) +
-  
-  scale_x_discrete(limits = c("starved", "macro", "mixed", "sargassum"), labels=c("starved" = "Starved", "macro" = "Kelp",
-                              "mixed" = "Mixed","sargassum" = "Devilweed")) +
-   geom_vline(xintercept=c(1.5),linetype="dotted") +
-   theme(axis.text.x = element_text( 
-                           size=10)) 
-
-
-
-
-
-
-
 
 
 
